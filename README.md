@@ -1,0 +1,2 @@
+Used to log and automatically analyze player behaviour on craft server implementations. Interaction is possible through
+multiple platforms (discord and craft implementations already exist). The project is unfinished.
